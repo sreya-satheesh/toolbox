@@ -73,7 +73,7 @@ Dive in, explore, and enjoy making your workflow smoother and more fun!
 ---
 
 ## Live Demo
-🔗 **[Try Toolbox Now](https://toolbox-private.vercel.app/)**
+🔗 **[Try Toolbox Now](https://toolbox-psi-nine.vercel.app/)**
 
 ---
 

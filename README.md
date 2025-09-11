@@ -4,7 +4,7 @@
 From minifying code to resizing images, Toolbox helps you work **faster, smarter, and more efficiently** — all in one place.  
 Dive in, explore, and enjoy making your workflow smoother and more fun!  
 
-<img width="1917" height="910" alt="Screenshot of Toolbox" src="https://github.com/user-attachments/assets/f260a23e-48a4-4b7d-99d9-b17b53f0526a" />
+<img width="1917" height="910" alt="476991508-f260a23e-48a4-4b7d-99d9-b17b53f0526a" src="https://github.com/user-attachments/assets/259c7a2a-a3d4-4684-9c97-a32129f0af56" />
 
 ---
 

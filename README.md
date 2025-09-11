@@ -8,9 +8,9 @@ Dive in, explore, and enjoy making your workflow smoother and more fun!
 
 ---
 
-## ✨ Features
+## Features
 
-### 🖥 Code Tools
+### Code Tools
 - **JS Minifier** – Shrink JavaScript code to reduce file size.  
 - **JS Beautifier** – Format and clean up JavaScript for readability.  
 - **JS Obfuscator** – Make JavaScript code intentionally hard to read.  
@@ -20,37 +20,37 @@ Dive in, explore, and enjoy making your workflow smoother and more fun!
 - **HTML Minifier** – Reduce the size of HTML files.  
 - **HTML Beautifier** – Organize and format HTML code.
 
-### 🔐 Encoding & Decoding
+### Encoding & Decoding
 - **Base64 Encoder/Decoder** – Convert text to/from Base64.  
 - **URL Encoder/Decoder** – Encode/Decode for safe URL usage.  
 - **HTML Entities Encoder/Decoder** – Process text with HTML entities.  
 - **Unicode Converter** – Convert between plain text and Unicode.  
 - **JWT Decoder** – Inspect JSON Web Tokens.
 
-### 🛡 Hashing & Security
+### Hashing & Security
 - **Hash Generator** – SHA-1, SHA-256, SHA-512.  
 - **MD5 Generator** – Generate MD5 hashes (non-secure).  
 - **HMAC Generator** – Create keyed hashes for authentication.  
 - **Password Hashing (bcrypt)** – Securely hash passwords.
 
-### ✍ Text & Data
+### Text & Data
 - **Case Converter** – UPPERCASE, lowercase, Title Case, etc.  
 - **Word & Character Counter** – Count words, characters, lines.
 
-### 🔍 Regex & String
+### Regex & String
 - **Regex Tester** – Test/debug regular expressions in real-time.  
 - **String Escaper/Unescaper** – Add/remove escape characters.  
 - **Slug Generator** – Create SEO-friendly URLs.  
 - **Random String Generator** – Generate custom random strings.  
 - **Lorem Ipsum Generator** – Generate placeholder text.
 
-### 🔄 Data Conversion
+### Data Conversion
 - **CSV ↔ JSON** – Convert between CSV and JSON.  
 - **XML ↔ JSON** – Convert between XML and JSON.  
 - **YAML ↔ JSON** – Convert between YAML and JSON.  
 - **Markdown ↔ HTML** – Convert between Markdown and HTML.
 
-### 🖼 Image Tools
+### Image Tools
 - **Image Compressor** – Reduce image file size.  
 - **Image Format Converter** – JPG, PNG, WebP conversions.  
 - **Image Resizer** – Change image dimensions.  
@@ -58,14 +58,14 @@ Dive in, explore, and enjoy making your workflow smoother and more fun!
 - **Image ↔ Base64** – Encode/Decode images to/from Base64.  
 - **Image Metadata Viewer/Remover** – View or strip EXIF data.
 
-### 🎨 Color & Design
+### Color & Design
 - **Color Picker** – Get HEX, RGB, HSL codes.  
 - **Palette Generator** – Build color schemes.  
 - **Gradient Generator** – Create CSS gradients visually.  
 - **Color Converters** – HEX, RGB, HSL conversions.  
 - **Image Color Extractor** – Detect dominant colors in images.
 
-### ⏳ Time & Date Tools
+### Time & Date Tools
 - **Unix Timestamp Converter** – Convert between Unix time and human-readable dates.  
 - **Timezone Converter** – Convert between timezones.  
 - **Date Calculator** – Add/subtract days, months, years.

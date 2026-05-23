@@ -19,10 +19,10 @@ export const metadata: Metadata = {
     title: 'Toolbox - Free Online Developer Tools',
     description: 'The ultimate collection of utilities for developers. Format, convert, and process data with ease.',
     type: 'website',
-    url: 'https://your-app-url.com', // Replace with your actual URL
+    url: 'https://toolbox-psi-nine.vercel.app/',
     images: [
       {
-        url: 'https://placehold.co/1200x630.png', // Replace with your actual OG image
+        url: '',
         width: 1200,
         height: 630,
         alt: 'Toolbox - Online Developer Tools',

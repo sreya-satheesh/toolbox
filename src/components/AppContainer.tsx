@@ -47,7 +47,7 @@ export function AppContainer({ children }: { children: ReactNode }) {
           </div>
       </SidebarProvider>
       <footer className="w-full p-4 text-right text-sm text-muted-foreground">
-        Created with ❤️, from India.
+        Built with ❤️ by Sreya
       </footer>
     </div>
   );

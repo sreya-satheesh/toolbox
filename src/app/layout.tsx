@@ -32,8 +32,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Toolbox - Free Online Developer Tools',
-    description: 'The ultimate collection of utilities for developers. Format, convert, and process data with ease.',
-    images: ['https://placehold.co/1200x630.png'], // Replace with your actual Twitter card image
+    description: 'The ultimate collection of utilities for developers. Format, convert, and process data with ease.'
   },
 };
 
